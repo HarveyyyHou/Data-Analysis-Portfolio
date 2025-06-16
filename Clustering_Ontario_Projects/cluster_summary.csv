@@ -1,0 +1,28 @@
+Cluster,Project Count,Most Common Category,Average Budget ($),Median Budget ($),Average Completion Year,Provincial Funding (%),Federal Funding (%),Municipal Funding (%),Other Funding (%),Cluster Label
+-1,338,Communities,63544683.27514793,2135085.0,2024.1360946745563,0.8875739644970414,0.4349112426035503,0.39349112426035504,0.5266272189349113,"Mixed,unclassified Projects"
+0,246,Communities,880975.150406504,85373.0,2024.0,1.0,1.0,0.0,1.0,"Federal, other funded Completed Community Projects"
+1,55,Communities,8669129.836363636,400000.0,2024.0,1.0,0.0,0.0,0.0,Small Completed Community Projects
+2,37,Communities,2125277.7027027025,1000000.0,2024.0,1.0,0.0,0.0,1.0,Other funded Completed Community Projects
+3,43,Education,22254182.06976744,12500000.0,2024.0,1.0,1.0,0.0,1.0,"Federal, other funded Completed Education Projects"
+4,258,Education,13089517.57364341,9073091.0,2024.0,1.0,0.0,0.0,1.0,Other funded Completed Education Projects
+5,218,Child care,1138316.889908257,771286.5,2024.0,1.0,0.0,0.0,0.0,Completed Child Care Projects
+6,37,Child care,1775032.2972972973,1482852.0,2024.0,1.0,0.0,0.0,1.0,Other funded Completed Child Care Projects
+7,23,Child care,873501.304347826,871426.0,2024.0,1.0,1.0,0.0,0.0,Federal funded Completed Child Care Projects
+8,234,Education,6544738.692307692,4729600.0,2024.0,1.0,0.0,0.0,0.0,Completed Education Projects
+9,46,Education,12220069.93478261,8804553.5,2024.0,1.0,0.0,0.0,0.0,Planned Education Projects
+10,26,Education,28869687.192307692,25352173.0,2024.0,1.0,0.0,0.0,1.0,Other funded ongoing Education Project
+11,27,Education,16665146.925925925,13503269.0,2024.0,1.0,0.0,0.0,0.0,Ongoing Education Projects
+12,26,Health care,30386648.0,20100000.0,2024.0,1.0,0.0,0.0,1.0,Other funded Complete Health care Projects
+13,1109,Communities,894117.6780883679,187500.0,2024.0,1.0,1.0,1.0,0.0,"Federal, Municipal funded Completed Community Projects"
+14,136,Communities,2946341.1838235296,1000000.0,2024.0,1.0,1.0,1.0,1.0,All funded Completed Community Projects
+15,107,Communities,1385747.9439252336,1346760.0,2024.0,1.0,0.0,1.0,0.0,Municipal Completed Community Projects
+16,101,Roads and bridges,1067648.7722772278,1010938.0,2024.0,1.0,0.0,1.0,0.0,Municipal funded Completed Projects (Roads and bridges)
+17,32,Roads and bridges,500016.34375,298778.5,2024.0,1.0,1.0,1.0,0.0,"Federal, Municipal funded Completed Projects (Roads and bridges)"
+18,38,Transit,1453846.2894736843,414570.0,2024.0,1.0,1.0,1.0,0.0,"Federal, Municipal funded Completed Transit Project"
+19,21,Communities,4022260.1904761903,853290.0,2024.0,1.0,0.0,1.0,1.0,"Municipal, other funded Completed Community Projects"
+20,31,Communities,1569735.0322580645,800000.0,2024.0,1.0,1.0,0.0,0.0,Federal Funded Completed Community Projects
+21,28,Recreation,807903.6785714285,257710.0,2024.0,1.0,0.0,1.0,0.0,Municipal funded Completed Recreation Projects
+22,43,Recreation,1046367.4418604651,398200.0,2024.0,1.0,0.0,0.0,0.0,Completed Recreation Projects
+23,104,Roads and bridges,1545129.4903846155,1343682.5,2024.0,1.0,0.0,0.0,0.0,Completed Projects (Roads and bridges)
+24,60,Transit,6570606.1,4258437.5,2024.0,1.0,1.0,1.0,0.0,Planned All funded Transit Project
+25,29,Transit,6171016.0,2810000.0,2024.0,1.0,1.0,1.0,0.0,Ongoing All funded Transit Project
