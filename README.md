@@ -1,5 +1,6 @@
 # General-Portfolio
 Tracks learning progress, projects I have done and more, Thank you.
+Please Connect with me through Linkedln: www.linkedin.com/in/junyi-harvey-hou-623426279
 
 2025 January to April:
 Please find the Ontario School Education Regression Analysis in "Harvey-Regression Analysis" Branch.
