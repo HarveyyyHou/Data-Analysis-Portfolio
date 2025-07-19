@@ -9,3 +9,12 @@ The Ontario Clustering Project is done. Feel free to take a look, It is currentl
 
 2025 June to July:
 Currently learning Excel Power Query and Power Pivot, will implement in data clean.
+
+2025 July:
+The Ontario Clustering Project is done and updated. Multi-Feature Hierarchical Clustering with 5 clusters.
+
+Key findings:
+- Most Education, Health Care and Child care projects only have "Other funding", and these projects have higher budgets.
+- Most Community projects have the lower budgets and receives both federal and municiple funding.
+- About 96% Child care projects are complete, About 95% of Community projects are complete.
+- Within expectation. Incomplete projects have higher budgets in general.
