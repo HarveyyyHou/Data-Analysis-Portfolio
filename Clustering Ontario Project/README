@@ -1,1 +1,12 @@
+Please Connect with me through Linkedln: www.linkedin.com/in/junyi-harvey-hou-623426279
+Please Find File Descriptions Here:
 
+Data_Clean_Query: Screenshot after performing Data Clean with Power Query.
+Dashboard_Clustering_Ontario_Projects: Dashboard of Cluster Results, currently being finalized.
+Proj_Hierarchical_Final: Main Data Analysis File
+
+Excel Files:
+
+Ontario_Projects: Raw Dataset
+Final_Ontario_Project: Data Cleaned Dataset(Before Outlier Removal)
+Ontario_Projects_Clusters: Dataset with cluster labels after clustering
