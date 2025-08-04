@@ -14,6 +14,8 @@ Currently learning Excel Power Query and Power Pivot, will implement in data cle
 2025 July:
 The Ontario Clustering Project is done and updated. Multi-Feature Hierarchical Clustering with 5 clusters. Data Cleaned with Excel Power Query and Python. Currently finalizing interactive Power BI dashboard.
 
+2025 Aug 4th:
+Dashboard for Ontario Clustering Project done and updated
 Key findings:
 - Most Education, Health Care and Child care projects only have "Other funding", and these projects have higher budgets.
 - Most Community projects have the lower budgets and receives both federal and municiple funding.
